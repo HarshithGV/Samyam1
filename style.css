@@ -22,8 +22,22 @@ a {
     text-decoration: none;
     color: #000;
 }
+
+a:hover {
+    color: yellow;
+}
+
 #select {
 margin-top: 1rem;
 font-size: 20px;
 font-weight: 600;
+}
+
+table{
+    margin-top: 2rem;
+}
+
+td, th {
+    padding: 1rem;
+    border: 1px solid black;
 }
